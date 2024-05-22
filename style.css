@@ -1,11 +1,11 @@
 .gradient-background {
-    background: linear-gradient(300deg, #2B3499, #A0DEFF);
+  background: linear-gradient(124.64deg, #027dfd, #7385d6);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
   }
 
   .profile-img {
-    border-radius: 10px 100px / 120px;
+    border-radius: 10px ;
     box-shadow: 10px 5px 5px grey
   }
   
